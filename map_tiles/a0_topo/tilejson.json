@@ -1,0 +1,18 @@
+{
+    "attribution": null,
+    "name": "Baralday_Topo",
+    "scheme": "tms",
+    "tiles": [
+        "https://raw.githubusercontent.com/ArrEssJay/Baralday19/master/map_tiles/a0_topo/{z}/{x}/{y}.png"
+    ],
+    "minZoom": 1,
+    "maxZoom": 16,
+    "bounds": [
+        69.87888571794933,
+        42.73745666751149,
+        70.1722145356208,
+        42.89150845835863
+    ],
+    "description": "Baralday Topographic",
+    "tilejson": "2.1.0"
+}
