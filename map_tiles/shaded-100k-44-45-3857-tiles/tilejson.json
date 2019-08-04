@@ -1,0 +1,18 @@
+{
+    "name": "genshtab_k42_44-45",
+    "tiles": [
+        "https://raw.githubusercontent.com/ArrEssJay/Baralday19/master/map_tiles/shaded-100k-44-45-3857-tiles/{z}/{x}/{y}.png"
+    ],
+    "scheme": "tms",
+    "attribution": null,
+    "bounds": [
+        69.49667240000001,
+        42.66145282228894,
+        70.50721456217363,
+        43.0056119
+    ],
+    "tilejson": "2.1.0",
+    "minZoom": 1,
+    "maxZoom": 15,
+    "description": "Added with mapsource/add"
+}
